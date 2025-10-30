@@ -1,7 +1,6 @@
 # 🎓 Intro Week Bingo App — Double Diamond Case Study
 
-A digital experience project built to help **Fontys students connect during Intro Week** through a fun, gamified Bingo-style app.  
-This repository documents the **Double Diamond design process** — from user research to SwiftUI implementation — and includes the final interactive prototype and development overview.
+App built to help **Fontys students connect during Intro Week** through a fun, gamified Bingo-style app.  
 
 ---
 
